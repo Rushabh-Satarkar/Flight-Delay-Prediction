@@ -1,0 +1,2 @@
+# Flight-Delay-Prediction
+Delay is one of the most remembered performance indicators of any transportation system. Notably, commercial aviation players understand delay as the period by which a flight is late or postponed. Thus, a delay may be represented by the difference between scheduled and real times of departure or arrival of a plane. Country regulator authorities have a multitude of indicators related to tolerance thresholds for flight delays. Indeed, flight delay is an essential subject in the context of air transportation systems.
